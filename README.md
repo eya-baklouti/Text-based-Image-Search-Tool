@@ -32,4 +32,4 @@ The workflow of the solution involves the following steps:
 
 By employing this text-based image search engine, writers and bloggers can effortlessly obtain relevant and contextual images to accompany their written content, ensuring a visually appealing presentation and improved user experience.
 
-![image](https://github.com/eya-baklouti/Text-based-Image-Search-Tool/workflow.PNG)
+![image](workflow.PNG)
