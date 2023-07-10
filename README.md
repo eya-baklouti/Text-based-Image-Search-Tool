@@ -31,3 +31,5 @@ The workflow of the solution involves the following steps:
 5. Relevant Image Selection: Using the most relevant keywords, the tool compares the embeddings with the images' embeddings in the database. This process identifies the most semantically relevant images for the inputted text.
 
 By employing this text-based image search engine, writers and bloggers can effortlessly obtain relevant and contextual images to accompany their written content, ensuring a visually appealing presentation and improved user experience.
+
+![image](https://github.com/eya-baklouti/Text-based-Image-Search-Tool/workflow.PNG)
